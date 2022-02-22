@@ -1,0 +1,7 @@
+C:\Users\Data53454\Desktop\C#\ExercicioExcessoes\ExercicioExcessoes\bin\Debug\ExercicioExcessoes.exe
+C:\Users\Data53454\Desktop\C#\ExercicioExcessoes\ExercicioExcessoes\bin\Debug\ExercicioExcessoes.pdb
+C:\Users\Data53454\Desktop\C#\ExercicioExcessoes\ExercicioExcessoes\obj\Debug\ExercicioExcessoes.csproj.AssemblyReference.cache
+C:\Users\Data53454\Desktop\C#\ExercicioExcessoes\ExercicioExcessoes\obj\Debug\ExercicioExcessoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Data53454\Desktop\C#\ExercicioExcessoes\ExercicioExcessoes\obj\Debug\ExercicioExcessoes.csproj.CoreCompileInputs.cache
+C:\Users\Data53454\Desktop\C#\ExercicioExcessoes\ExercicioExcessoes\obj\Debug\ExercicioExcessoes.exe
+C:\Users\Data53454\Desktop\C#\ExercicioExcessoes\ExercicioExcessoes\obj\Debug\ExercicioExcessoes.pdb
